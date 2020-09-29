@@ -1,0 +1,12 @@
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\bin\Debug\Constructor Test.exe.config
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\bin\Debug\Constructor Test.exe
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\bin\Debug\Constructor Test.pdb
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\bin\Debug\Constructor Test.xml
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor Test.vbprojAssemblyReference.cache
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor_Test.Form1.resources
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor_Test.Resources.resources
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor Test.vbproj.GenerateResource.cache
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor Test.vbproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor Test.exe
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor Test.xml
+C:\Users\timot\source\repos\Constructor Test\Constructor Test\obj\Debug\Constructor Test.pdb
